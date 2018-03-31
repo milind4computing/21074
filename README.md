@@ -6,7 +6,7 @@ SMART INDIA HACKATHON 2018
 #link: https://bitbucket.org/milind4computing/21074      
 
 
-#Featues:    
+#Features:    
 Notifications about Government launched schemes, circulars, notices, exam schedule etc.    
 SOS - For sending immediate distress signal to parent and teacher in case of Ragging, Bullying, Accidents, Eaveteasing, etc.    
 Student Attendance using Biometrics (Fingerprint)   
